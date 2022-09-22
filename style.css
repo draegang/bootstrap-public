@@ -2,10 +2,3 @@
     background-image: url("triplecropped.jpg");
     background-position:top ;
 }
-.navbar{
-    overflow: hidden;
-    background: transparent;
-    position: fixed; 
-    top: 0; 
-    width: 100%;
-}
